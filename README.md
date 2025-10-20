@@ -27,9 +27,9 @@ The Credit Card Fraud Detection Web Application is a Django-based platform desig
 * Provide download options for analyzed and predicted CSV files.
 * Improve mobile responsiveness and UI/UX styling.
 
-![Alt text](screenshot.png)
-![Alt text](screenshot.png)
-![Alt text](screenshot.png)
-![Alt text](screenshot.png)
+![Alt text](app1.png)
+![Alt text](app2.png)
+![Alt text](app3.png)
+![Alt text](app4.png)
 
 
